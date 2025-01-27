@@ -1,6 +1,6 @@
 ## Hi folks, I'm Rodrigo Branco. 👋
 
-I'm a Legislative Analyst - IT at [**Câmara dos Deputados**](https://camara.leg.br/).
+I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.leg.br/tema/assets/images/logo-brand-camara-mobile.png)](https://camara.leg.br/).
 
 ### About me
 - 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
