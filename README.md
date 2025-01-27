@@ -10,10 +10,11 @@ I'm a Legislative Analyst - IT at [**Câmara dos Deputados**](https://camara.leg
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogbranco/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/rodrigobranco.net)
-[![ORCID](https://img.shields.io/badge/ORCID-DCE44C?style=for-the-badge&logo=twitter&logoColor=white)](https://orcid.org/0000-0002-7760-4051)
-[![Lattes](https://img.shields.io/badge/Lattes-005999?style=for-the-badge&logo=twitter&logoColor=white)](http://lattes.cnpq.br/3770091178939660)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=twitter&logoColor=white)](http://blog.rodrigobranco.net/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rodrigobranco.net)
+[![ORCID](https://img.shields.io/badge/ORCID-DCE44C?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7760-4051)
+[![Lattes](https://img.shields.io/badge/Lattes-005999?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/3770091178939660)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.g.branco/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blog&logoColor=white)](http://blog.rodrigobranco.net/)
 
 ### 🛠️ Technologies & Tools
 <div style="display: inline_block">
