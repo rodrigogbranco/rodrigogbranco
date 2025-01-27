@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi folks, I'm Rodrigo Branco. 👋
 
-<!--
-**rodrigogbranco/rodrigogbranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Legislative Analyst - IT at [**Câmara dos Deputados**](https://camara.leg.br/).
 
-Here are some ideas to get you started:
+### About me
+- 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
+- 🎓 ONGOING - PhD's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
+- 💡 I play in all positions: Main languages are C/C++, Assembly, Java, Python, Javascript and so on...
+- Currently learning programming Kernel and Operating Systems. [**Check it out**](http://blog.rodrigobranco.net/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogbranco/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/rodrigobranco.net)
+[![ORCID](https://img.shields.io/badge/ORCID-DCE44C?style=for-the-badge&logo=twitter&logoColor=white)](https://orcid.org/0000-0002-7760-4051)
+[![Lattes](https://img.shields.io/badge/Lattes-005999?style=for-the-badge&logo=twitter&logoColor=white)](http://lattes.cnpq.br/3770091178939660)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=twitter&logoColor=white)](http://blog.rodrigobranco.net/)
+
+### 🛠️ Technologies & Tools
+<div style="display: inline_block">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg">
+  <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/latex/latex-original.svg">
+</div>
