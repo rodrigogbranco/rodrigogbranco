@@ -2,7 +2,7 @@
 
 I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.leg.br/tema/assets/images/logo-brand-camara-mobile.png)](https://camara.leg.br/)
 
-### About me
+### 🤝 About me
 - 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 🎓 ONGOING - PhD's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 💡 I play in all positions: Main languages are C/C++, Assembly, Java, Python, Javascript and so on...
@@ -29,7 +29,7 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 ![LaTeX](https://img.shields.io/badge/-LaTeX-ffffff?style=flat&logoColor=000&logo=latex)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB3?style=flat&logoColor=fff&logo=php)&nbsp;
 
-### Stats
+### 🚀 Stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigogbranco" alt="rodrigogbranco" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="rodrigogbranco" /></p>
