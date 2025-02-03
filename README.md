@@ -25,3 +25,6 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg">
   <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/latex/latex-original.svg">
 </div>
+
+### Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true)
