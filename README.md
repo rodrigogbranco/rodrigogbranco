@@ -17,14 +17,21 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blog&logoColor=white)](http://blog.rodrigobranco.net/)
 
 ### 🛠️ Technologies & Tools
-<div style="display: inline_block">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg">
-  <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/latex/latex-original.svg">
-</div>
+![C](https://img.shields.io/badge/-C-0077B5?style=flat&logoColor=fff&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0077B5?style=flat&logoColor=fff&logo=cplusplus)&nbsp;
+![Java](https://img.shields.io/badge/-Java-d24e01?style=flat&logoColor=fff&logo=java)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logoColor=000&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-ffe873?style=flat&logoColor=306998&logo=python)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logoColor=fff&logo=gnubash)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-007AAC?style=flat&logoColor=fff&logo=assemblyscript)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=fff&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logoColor=fff&logo=kubernetes)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-ffffff?style=flat&logoColor=000&logo=latex)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-777BB3?style=flat&logoColor=fff&logo=php)&nbsp;
 
 ### Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigogbranco" alt="rodrigogbranco" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="rodrigogbranco" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigogbranco" alt="rodrigogbranco" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true&locale=en" alt="rodrigogbranco" /></p>
