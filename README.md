@@ -2,6 +2,8 @@
 
 I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.leg.br/tema/assets/images/logo-brand-camara-mobile.png)](https://camara.leg.br/)
 
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./header.svg" /></a></p>
+
 ### 🤝 About me
 - 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 🎓 ONGOING - PhD's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
@@ -35,3 +37,10 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="rodrigogbranco" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigogbranco" alt="rodrigogbranco" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true&locale=en" alt="rodrigogbranco" /></p>
+
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./repositories.svg" /></a></p>
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./acti_comm.svg" /></a></p>
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./iso_calender.svg" /></a></p>
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./issue_pr_lang.svg" /></a></p>
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./github-habits.svg" /></a></p>
+<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./achievements.svg" /></a></p>
