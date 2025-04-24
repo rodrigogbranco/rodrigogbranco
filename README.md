@@ -34,6 +34,7 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 ### 🚀 Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=rodrigogbranco)](https://github.com/rodrigogbranco)
+[![Achievements](./achievements.svg)](https://github.com/rodrigogbranco)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)](https://github.com/rodrigogbranco)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true&locale=en)](https://github.com/rodrigogbranco)
 [![Repositories](./repositories.svg)](https://github.com/rodrigogbranco)
@@ -41,4 +42,3 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 [![ISO Calendar](./iso_calender.svg)](https://github.com/rodrigogbranco)
 [![Issues, PR and Langs](./issue_pr_lang.svg)](https://github.com/rodrigogbranco)
 [![Github Habits](./github-habits.svg)](https://github.com/rodrigogbranco)
-[![Achievements](./achievements.svg)](https://github.com/rodrigogbranco)
