@@ -8,7 +8,7 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 - 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 🎓 ONGOING - PhD's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 💡 I play in all positions: Main languages are C/C++, Assembly, Java, Python, Javascript and so on...
-- Currently learning programming Kernel and Operating Systems. [**Check it out**](http://blog.rodrigobranco.net/)
+- Currently learning programming Kernel and Operating Systems. Check it out! [![Blog RSS](./rss.svg)](https://blog.rodrigobranco.net/)
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogbranco/)
