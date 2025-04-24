@@ -141,3 +141,16 @@ jobs:
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: rss.svg
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://blog.rodrigobranco.net/feed
+          plugin_rss_limit: 4       
