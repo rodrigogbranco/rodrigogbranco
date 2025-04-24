@@ -1,8 +1,8 @@
-## Hi folks, I'm Rodrigo Branco. 👋
+## Who am I?
+
+[![Who am I?](./header.svg)]([https://www.linkedin.com/in/rodrigogbranco/](https://github.com/rodrigogbranco))
 
 I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.leg.br/tema/assets/images/logo-brand-camara-mobile.png)](https://camara.leg.br/)
-
-<p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./header.svg" /></a></p>
 
 ### 🤝 About me
 - 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
