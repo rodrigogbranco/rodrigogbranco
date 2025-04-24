@@ -149,6 +149,7 @@ jobs:
         with:
           filename: rss.svg
           # GITHUB_TOKEN is a special auto-generated token used for commits
+          token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_rss: yes
