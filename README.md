@@ -34,8 +34,8 @@ I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.l
 ### 🚀 Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=rodrigogbranco)](https://github.com/rodrigogbranco)
-<p><img src="https://github-profile-trophy.vercel.app/?username=rodrigogbranco" alt="rodrigogbranco" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="rodrigogbranco" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true&locale=en" alt="rodrigogbranco" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rodrigogbranco&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)](https://github.com/rodrigogbranco)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbranco&show_icons=true&count_private=true&locale=en)](https://github.com/rodrigogbranco)
 
 <p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./repositories.svg" /></a></p>
 <p><a href="https://github.com/rodrigogbranco"><img align="center" width="49%" src="./acti_comm.svg" /></a></p>
