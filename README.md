@@ -5,8 +5,7 @@
 I'm a Legislative Analyst - IT at [![Câmara dos Deputados](https://www.camara.leg.br/tema/assets/images/logo-brand-camara-mobile.png)](https://camara.leg.br/)
 
 ### 🤝 About me
-- 🎓 Master's degree and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
-- 🎓 ONGOING - PhD's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
+- 🎓 PhD's, Master's and Bachelor's degree in Computer Science at [**UFMS**](https://www.facom.ufms.br/)
 - 💡 I play in all positions: Main languages are C/C++, Assembly, Java, Python, Javascript and so on...
 - Currently I'm building an Operational System/Kernel, namely **BoringOS**. Check it out! [![Blog RSS](./rss.svg)](https://blog.rodrigobranco.net/)
 
