@@ -99,6 +99,7 @@ jobs:
           user: ${{ github.actor }}
           base: ""
           template: classic
+          plugin_languages: no
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
