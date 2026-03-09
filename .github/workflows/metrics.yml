@@ -69,7 +69,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   iso_calender:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: lowlighter/metrics@latest
         with:
