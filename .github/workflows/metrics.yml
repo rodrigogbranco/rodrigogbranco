@@ -41,7 +41,7 @@ jobs:
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
   lines:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: lowlighter/metrics@latest
         with:
