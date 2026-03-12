@@ -88,9 +88,9 @@ jobs:
           plugin_isocalendar_duration: half-year
 
   habits:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
-      - uses: dkhokhlov/metrics@master
+      - uses: gh-metrics/metrics@master
         with:
           filename: github-habits.svg
           token: ${{ secrets.METRICS_SECRET }}
