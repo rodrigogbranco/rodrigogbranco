@@ -11,7 +11,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@master # lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest # gh-metrics/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
